@@ -1,4 +1,4 @@
-# Armstrong-Number
+
 #Armstrong Number in Python
 
 n = int(input("Enter the number: "))
